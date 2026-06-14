@@ -18,7 +18,7 @@
 ## 🔗 関連リンク（リファレンス）
 
 * **ベースキーボード:** [sekigon-gonnoc/zmk-keyboard-torabo-tsuki-lp](https://github.com/sekigon-gonnoc/zmk-keyboard-torabo-tsuki-lp) （せきごん氏）
-* **対応トラックパッドモジュール:** [拡張トラックパッド](https://nogikes.booth.pm/items/8083855) （のぎけす氏 / BOOTH）
+* **対応トラックパッドモジュール:** [拡張トラックパッド](https://nogikes.booth.pm/items/8083855) （せきごん氏 / BOOTH）
 * **標準カバーのビルドガイド:** [ミニトラックパッドオプションの組み立て方](https://github.com/sekigon-gonnoc/torabo-tsuki-lp/blob/master/mini-trackpad-option.md)
 
 ---
