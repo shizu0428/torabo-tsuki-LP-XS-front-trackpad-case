@@ -1,7 +1,7 @@
 # torabo-tsuki-LP-XS-front-trachpad-case
-# torabo-tsuki LP XSサイズ用 拡張トラックパッドカバー
+# torabo-tsuki LP XSサイズ用 拡張トラックパッド手前配置カバー
 
-このリポジトリは、せきごん氏（sekigon-gonnoc）が販売・公開しているキーボード「**torabo-tsuki LP XSサイズ**」に、「**拡張トラックパッド**」を追加・装着するためのカスタムカバー（ケース）の3D設計データを公開しています。
+このリポジトリは、せきごん氏（sekigon-gonnoc）が販売・公開しているキーボード「**torabo-tsuki LP XSサイズ**」に、「**拡張トラックパッド**」を追加するためのカスタムカバー（ケース）の3D設計データを公開しています。
 
 ---
 
