@@ -9,7 +9,7 @@
 
 せきごん氏が公開されているXSサイズ用の標準カバーのデータをベースに設計しています。
 
-* **トラックパッドへのアクセス向上:** マイコン（BMP Boost）の手前側キー1つをオミットすることで、トラックパッドにアクセスしやすくなることを意図しています。四角で囲われた範囲の裏側にトラックパッドを配置します。
+* **トラックパッドへのアクセス向上:** マイコン（BMP Boost）の手前側キー1つをオミットすることで、トラックパッドにアクセスしやすくなることを意図しています。四角で囲われた範囲の裏側にトラックパッドを配置します。人差し指だけでなく親指での操作も可能です。
 * 左右それぞれのデータを準備しています。
 
 <img width="1059" height="651" alt="image1" src="https://github.com/user-attachments/assets/ef3e2b10-f062-4cd3-853d-27e54e05aafa" />
@@ -19,7 +19,7 @@
 
 * **ベースキーボード:** [sekigon-gonnoc/zmk-keyboard-torabo-tsuki-lp](https://github.com/sekigon-gonnoc/zmk-keyboard-torabo-tsuki-lp) （せきごん氏）
 * **対応トラックパッドモジュール:** [拡張トラックパッド](https://nogikes.booth.pm/items/8083855) （せきごん氏 / BOOTH）
-* **標準カバーのビルドガイド:** [ミニトラックパッドオプションの組み立て方](https://github.com/sekigon-gonnoc/torabo-tsuki-lp/blob/master/mini-trackpad-option.md)
+* **トラックパッド用標準カバーのビルドガイド:** [ミニトラックパッドオプションの組み立て方](https://github.com/sekigon-gonnoc/torabo-tsuki-lp/blob/master/mini-trackpad-option.md)
 
 ---
 
